@@ -65,7 +65,7 @@ content:
           #url: SurvivingBastion.com
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
-             url: SurvivingBastion.com
+        url: SurvivingBastion.com
         quote: >
           Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?
         description: | # this will include new lines to allow paragraphs

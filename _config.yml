@@ -25,7 +25,7 @@ instagram_username: jade.neoma
 #linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: Jade Neoma
+youtube_username: channel/UClJGN6xGSLN7jaY1ZzOUeug
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jade and I'm a freelance creative professional based in the UK. I work within a studio called Midnight Wick, working primarily as a Writer but also as a Producer, Director, Audio Engineer and Video Editor. I also do a large amount of the administrative work and day to day running of the studio. 
+  Hi, my name's Jade and I'm a freelance creative professional based in the UK. I work within a studio called Midnight Wick, working primarily as a Writer but also as a Producer, Director, Audio Engineer and Video Editor. I also do a large amount of the administrative work and day to day running of the studio.
 
 
 content:
@@ -108,7 +108,7 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
+      Look at this cool image
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer

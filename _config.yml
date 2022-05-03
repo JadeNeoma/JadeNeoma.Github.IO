@@ -55,7 +55,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Surviving Bastion
         link: SurvivingBastion.com
         # link_text: Project Website

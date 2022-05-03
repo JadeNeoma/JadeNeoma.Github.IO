@@ -44,13 +44,10 @@ additional_links:
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
-content: |
-  ![Signature](/images/signature.png "Signature")
+about_title_image: /images/signature.png
 
 
 # About Section
-about_title: |
-  ![Signature](/images/signature.png "Signature")
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jade and I'm a freelance creative professional based in the UK. I work within a studio called Midnight Wick, working primarily as a Writer but also as a Producer, Director, Audio Engineer and Video Editor. I also do a large amount of the administrative work and day to day running of the studio.

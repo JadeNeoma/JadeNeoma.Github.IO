@@ -69,7 +69,7 @@ content:
           #   icon: fab fa-github
         url: SurvivingBastion.com
         quote: >
-          Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?
+          "Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?"
         description: | # this will include new lines to allow paragraphs
           Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
 

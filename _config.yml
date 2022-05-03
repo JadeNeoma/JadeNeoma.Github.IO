@@ -6,7 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name:
+name: |
+  ![Signature](/images/signature.png "Signature")
 title:
 content: |
   ![Signature](/images/signature.png "Signature")

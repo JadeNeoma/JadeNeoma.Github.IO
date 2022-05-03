@@ -71,21 +71,21 @@ content:
         description: | # this will include new lines to allow paragraphs
           Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
 
-        - layout: left
-          title: Surviving Bastion
-          link: SurvivingBastion.com
-          # link_text: Project Website
-          # additional_links:
-            # title:  sproogen/modern-resume-theme
-            # icon: fab fa-github
-            # url: SurvivingBastion.com
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #   icon: fab fa-github
+      - layout: left
+        title: Surviving Bastion
+        link: SurvivingBastion.com
+        # link_text: Project Website
+        # additional_links:
+          # title:  sproogen/modern-resume-theme
+          # icon: fab fa-github
           # url: SurvivingBastion.com
-          quote: >
-            Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?
-          description: | # this will include new lines to allow paragraphs
-            Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+        # url: SurvivingBastion.com
+        quote: >
+          Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?
+        description: | # this will include new lines to allow paragraphs
+          Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
 
   - title: Studio # Title for the section
     layout: list # Type of content section (list/text)

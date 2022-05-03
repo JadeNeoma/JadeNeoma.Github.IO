@@ -8,7 +8,9 @@ version: 2
 # Personal info
 name: |
   ![Signature](/images/signature.png "Signature")
-title:
+
+title: |
+  ![Signature](/images/signature.png "Signature")
 content: |
   ![Signature](/images/signature.png "Signature")
 email: Contact@JadeNeoma.co.uk
@@ -47,8 +49,12 @@ additional_links:
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
+content: |
+  ![Signature](/images/signature.png "Signature")
+
+
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jade and I'm a freelance creative professional based in the UK. I work within a studio called Midnight Wick, working primarily as a Writer but also as a Producer, Director, Audio Engineer and Video Editor. I also do a large amount of the administrative work and day to day running of the studio.

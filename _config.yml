@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name:
+name: ![Signature](/images/signature.png "Signature")
 title:
 email: Contact@JadeNeoma.co.uk
 website: JadeNeoma.co.uk
@@ -43,8 +43,6 @@ additional_links:
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
-
-![Signature](/images/signature.png "Signature")
 
 # About Section
 # about_title: About Me

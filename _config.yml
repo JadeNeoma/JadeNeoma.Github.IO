@@ -71,12 +71,28 @@ content:
         description: | # this will include new lines to allow paragraphs
           Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
 
-  - title: Experience # Title for the section
+        - layout: left
+          title: Surviving Bastion
+          link: SurvivingBastion.com
+          # link_text: Project Website
+          # additional_links:
+            # title:  sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: SurvivingBastion.com
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #   icon: fab fa-github
+          # url: SurvivingBastion.com
+          quote: >
+            Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?
+          description: | # this will include new lines to allow paragraphs
+            Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
+
+  - title: Studio # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Midnight Wick
+        link: MidnightWick.com
         # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
@@ -109,7 +125,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true

@@ -6,7 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-title: ![Signature](/images/signature.png "Signature")
+name:
+title:
 email: Contact@JadeNeoma.co.uk
 website: JadeNeoma.co.uk
 
@@ -124,7 +125,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 
-
+      ![Signature](/images/signature.png "Signature")
 
 # Footer
 footer_show_references: true

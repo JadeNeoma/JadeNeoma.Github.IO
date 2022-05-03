@@ -6,7 +6,8 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: ![Signature](/images/signature.png "Signature")
+name:
+about_profile_image: ![Signature](/images/signature.png "Signature")
 title:
 email: Contact@JadeNeoma.co.uk
 website: JadeNeoma.co.uk

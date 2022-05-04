@@ -48,7 +48,7 @@ about_title_image: /images/signature.png
 
 
 # About Section
-about_profile_image: images/profile.jpg
+about_profile_image: /images/signature.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jade and I'm a freelance creative professional based in the UK. I work within a studio called Midnight Wick, working primarily as a Writer but also as a Producer, Director, Audio Engineer and Video Editor. I also do a large amount of the administrative work and day to day running of the studio.
 
@@ -127,7 +127,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 
-      ![Signature](/images/signature.png "Signature")
+    #  ![Signature](/images/signature.png "Signature")
 
 # Footer
 footer_show_references: true

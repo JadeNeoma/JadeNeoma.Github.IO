@@ -1,143 +1,63 @@
-# Site
-repository: JadeNeoma/JadeNeoma.Github.IO
-favicon: images/favicon.ico
-
-# Content configuration version
-version: 2
-
-# Personal info
-name: Jade Neoma
-title: Freelance Creative
-title_img: /images/signature.png
-email: Contact@JadeNeoma.co.uk
-website: JadeNeoma.co.uk
-
-# Dark Mode (true/false/never)
-darkmode: true
-
-# Social links
-#twitter_username: facespics
-github_username:  JadeNeoma
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jade.neoma
-#linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: channel/UClJGN6xGSLN7jaY1ZzOUeug
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: 'Studio: MidnightWick'
-  icon: fas fa-globe
-  url: https://MidnightWick.Com
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-
-# About Section
-# about_profile_image: /images/signature.png
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Jade and I'm a freelance creative professional based in the UK. I work within a studio called Midnight Wick, working primarily as a Writer but also as a Producer, Director, Audio Engineer and Video Editor. I also do a large amount of the administrative work and day to day running of the studio.
-
-
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Surviving Bastion
-        link: SurvivingBastion.com
-        # link_text: Project Website
-        #additional_links:
-          #title:  sproogen/modern-resume-theme
-          #icon: fab fa-github
-          #url: SurvivingBastion.com
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-        url: SurvivingBastion.com
-        quote: >
-          "Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?"
-        description: | # this will include new lines to allow paragraphs
-          Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
-
-      - layout: left
-        title: Surviving Bastion
-        link: SurvivingBastion.com
-        # link_text: Project Website
-        # additional_links:
-          # title:  sproogen/modern-resume-theme
-          # icon: fab fa-github
-          # url: SurvivingBastion.com
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-        # url: SurvivingBastion.com
-        quote: >
-          Alert: added item 'fix dumb computer' to your to do list, would you like to schedule reminders for that task?
-        description: | # this will include new lines to allow paragraphs
-          Surviving Bastion is the first published work within the Stellar Incanted Universe. It centers on an engineering intern as one of the only survivors of the space station colloquially referred to as Bastion.
-
-  - title: Studio # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Midnight Wick
-        link: MidnightWick.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-
-    #  ![Signature](/images/signature.png "Signature")
-
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+# Site settings
+title: "Jade Neoma"
+description: "Freelance Creative"
 
 # Build settings
-remote_theme: sproogen/resume-theme
-
+markdown: kramdown
 sass:
   sass_dir: _sass
   style: compressed
 
-plugins:
- - jekyll-seo-tag
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    ""
+resume_title:                   ""
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "Contact@JadeNeoma.co.uk"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "-"
+resume_contact_address:         "742 Evergreen Terrace, Springfield"
+
+resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>I’m a freelance creative professional based in the UK. I work within a studio called Midnight Wick, working primarily as a Writer but also as a Producer, Director, Audio Engineer and Video Editor. I also do a most of the studio's admin tasks.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      false
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     false
+resume_section_links:           true
+resume_section_associations:    true
+resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/JadeNeoma"
+  resume_twitter_url:           "http://twitter.com/JadeNeoma"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_facebook_url:          "insert Facebook URL here"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  #resume_website_url:           "http://joelglovier.com"
+  #resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

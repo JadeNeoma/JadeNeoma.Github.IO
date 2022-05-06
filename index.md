@@ -7,4 +7,4 @@
 #
 layout: default
 ---
-<img src="./images/signature.png" width="1080" \>
+![Signature](/images/signature.png "Signature")

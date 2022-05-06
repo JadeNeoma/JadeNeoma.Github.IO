@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+<img src="./images/signature.png" width="1080" \>
